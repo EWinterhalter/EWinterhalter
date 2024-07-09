@@ -2,7 +2,7 @@
   <img  src="back.png" alt="banner">
 </div>
 
-
+<div id="tools" align="center">
 Tools:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="40" heigth="40" />&nbsp;
@@ -16,4 +16,5 @@ Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" width="40" heigth="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" heigth="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TS" width="40" heigth="40" />&nbsp;
+</div>
 </div>
