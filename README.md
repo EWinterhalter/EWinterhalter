@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img  src="back2.png" alt="banner">
 </div>
-### My stack
+![Logo](back2.png)
+## My stack
 I'm studying to be a Backend Developer. Also considering working as a Devops engineer.
 - HTTP, API REST, TCP/IP
 - Docker
