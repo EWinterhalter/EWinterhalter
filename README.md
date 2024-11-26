@@ -2,7 +2,7 @@
   <img src="back2.png" alt="banner">
 </div>
   <h1>My stack</h1>
-  I'm studying to be a Backend Developer. Also considering working as a Devops engineer.
+  I'm studying to be a Backend Developer. Also considering working as a Devops engineer.<tr>:</tr>
   
   <ul>
     <li>HTTP, API REST, TCP/IP</li>
