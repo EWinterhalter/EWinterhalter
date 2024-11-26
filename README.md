@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img  src="back.png" alt="banner">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EWinterhalter)](https://github.com/anuraghazra/github-readme-stats)
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EWinterhalter&layout=compact&langs_count=10"/></a>&nbsp
 </div>
 
 
