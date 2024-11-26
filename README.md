@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img  src="back2.png" alt="banner">
-</div>
-![Logo](back2.png)
-## My stack
-I'm studying to be a Backend Developer. Also considering working as a Devops engineer.
+  <h1>My stack </h1>
+  I'm studying to be a Backend Developer. Also considering working as a Devops engineer.
 - HTTP, API REST, TCP/IP
 - Docker
 - PostreSQL, MySQL
@@ -13,5 +11,8 @@ I'm studying to be a Backend Developer. Also considering working as a Devops eng
 - NodeJS
 - Nginx, Apache
 - HTML, CSS, React, Django
+
+</div>
+
 
 
