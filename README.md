@@ -1,7 +1,8 @@
+![Banner](back2.png)
 ```golang
 I'm studying to be a Backend Developer. Also considering working as a Devops engineer.
 
-func My_Stack(){
+func My_Stack() {
 - HTTP, API REST, TCP/IP
 - Docker
 - PostreSQL, MySQL
