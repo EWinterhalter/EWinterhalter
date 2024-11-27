@@ -14,4 +14,3 @@ func My_Stack() {
 - HTML, CSS, React, Django
 }
 ```
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=EWinterhalter)](https://github.com/ignacio-cuadra/github-readme-codewars)
