@@ -3,11 +3,11 @@
 I'm studying to be a Backend Developer. Also considering working as a Devops engineer.
 
 func My_Stack() {
-- Docker
+- Docker, Kubernetes
 - PostreSQL, MySQL, MongoDB
 - JS, Python, Golang
-- Bash, PowerShell
-- Ubuntu
+- Bash
+- Archlinux
 - NodeJS
 - Nginx, Apache
 - HTML, CSS, React, Django
