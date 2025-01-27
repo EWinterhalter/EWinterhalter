@@ -1,5 +1,5 @@
 ![Banner](back2.png)
-```console
+```none
                    .-/+oossssoo+/-.                  < Ваше имя или псевдоним >
                `:+ssssssssssssssssss+:`             --------------------------
              -+ssssssssssssssssssyyssss+-           OS: GitHub User
