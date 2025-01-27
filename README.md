@@ -1,26 +1,17 @@
 ![Banner](back2.png)
 ```none
-                   .-/+oossssoo+/-.                  < Ваше имя или псевдоним >
-               `:+ssssssssssssssssss+:`             --------------------------
-             -+ssssssssssssssssssyyssss+-           OS: GitHub User
-           .ossssssssssssssssssdMMMNysssso.         Skills: Python, JavaScript, C++, SQL
-          /ssssssssssshdmmNNmmyNMMMMhssssss/        Tools: Git, Docker, Linux, VS Code
-         +ssssssssshmydMMMMMMMNddddyssssssss+       Interests: Open Source, AI, Web Dev
-        /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/      Contact: <ваш email/ссылка>
-       .ssssssssdMMMNhsssssssssshNMMMdssssssss.     GitHub: github.com/<ваш ник>
-       +sssshhhyNMMNyssssssssssssyNMMMysssssss+     
-       ossyNMMMNyMMhsssssssssssssshmmmhssssssso     
-       ossyNMMMNyMMhsssssssssssssshmmmhssssssso     "Coding is my superpower!"
-       +sssshhhyNMMNyssssssssssssyNMMMysssssss+     
-       .ssssssssdMMMNhsssssssssshNMMMdssssssss.     
-        /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/      
-         +sssssssssdmydMMMMMMMMddddyssssssss+       
-          /ssssssssssshdmNNNNmyNMMMMhssssss/        
-           .ossssssssssssssssssdMMMNysssso.         
-             -+sssssssssssssssssyyyssss+-           
-               `:+ssssssssssssssssss+:`             
-                   .-/+oossssoo+/-.                
-
-
-
+　　　　　 ,:':　,::, ':,　　　 　,:':　;,.　';  
+　　　　　;':　:'::::';　'; 　　　;'　,':::::.　';         <  E. Winterhalter >
+　　　　　;:　:::::::::;　'; 　　 ;'　;':::::::　;'     --------------------------
+　　　　　';:　::::::::;　 ;　　 ;:　;'::::::;　;'        My OS: ArchLinux
+　　　　　 ;:　':::::::;　 ;　　;:　;'::::::　;'          I use: NodeJS, Golang, Bash
+　　　　　　';:　':;::: 　;,　 ;:.　;'::''　;'            DataBases: MySQL, PostgreSQL, MongoDB        
+　　　　　　 ,,'::　'' 　 :,.,.;':　'' 　,;'              Tools: Docker, Kubernetes, Nginx, Apache, Ansible
+　　　　　,:´::　　　　　　　　 　 ｀'':,
+　 　 　 ;':::: 　 　 　 　 　 　　　　　':,
+　　 　 ;::::　　　　　　　　　　　　　';
+　　 　 ';::::　　　O　　　　　　O　　;'       
+　　 　　';:::＊:. 　 　 　　 　　　　　;      
+　　　　　'':､::::::.　　　ーー　　,.,::'´            
+             
 ```
