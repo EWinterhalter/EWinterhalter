@@ -1,4 +1,5 @@
 ![Banner](back2.png)
+![Dark Theme Background](https://via.placeholder.com/1920x1080/111111/FFFFFF?text=Dark+Theme)
 ```none
 　　　　　 ,:':　,::, ':,　　　 　,:':　;,.　';  
 　　　　　;':　:'::::';　'; 　　　;'　,':::::.　';         <  E. Winterhalter >
