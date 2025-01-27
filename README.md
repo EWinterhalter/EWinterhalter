@@ -1,8 +1,4 @@
 ![Banner](back2.png)
-```bash
-# Команда для тёмной темы:
-echo "Dark Mode Active!"
-```
 ```none
 　　　　　 ,:':　,::, ':,　　　 　,:':　;,.　';  
 　　　　　;':　:'::::';　'; 　　　;'　,':::::.　';         <  E. Winterhalter >
