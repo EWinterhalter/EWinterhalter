@@ -1,4 +1,5 @@
 ![Banner](back2.png)
+echo "Dark Mode Active!"
 ```none
 　　　　　 ,:':　,::, ':,　　　 　,:':　;,.　';  
 　　　　　;':　:'::::';　'; 　　　;'　,':::::.　';         <  E. Winterhalter >
