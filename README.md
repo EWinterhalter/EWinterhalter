@@ -5,9 +5,9 @@
 　　　　　;:　:::::::::;　'; 　　 ;'　;':::::::　;'     --------------------------
 　　　　　';:　::::::::;　 ;　　 ;:　;'::::::;　;'        My OS: ArchLinux
 　　　　　 ;:　':::::::;　 ;　　;:　;'::::::　;'          My skills: 
-　　　　　　';:　':;::: 　;,　 ;:.　;'::''　;'           --MySQL, PostgreSQL, MongoDB        
-　　　　　　 ,,'::　'' 　 :,.,.;':　'' 　,;'             -- Docker, Kubernetes, Nginx, Apache, Ansible
-　　　　　,:´::　　　　　　　　 　 ｀'':,                  -- NodeJS, Golang, Bash
+　　　　　　';:　':;::: 　;,　 ;:.　;'::''　;'                      MySQL, PostgreSQL, MongoDB        
+　　　　　　 ,,'::　'' 　 :,.,.;':　'' 　,;'                        Docker, Kubernetes, Nginx, Apache, Ansible
+　　　　　,:´::　　　　　　　　 　 ｀'':,                            NodeJS, Golang, Bash
 　 　 　 ;':::: 　 　 　 　 　 　　　　　':,
 　　 　 ;::::　　　　　　　　　　　　　      ';
 　　 　 ';::::　　　O　　　　　　O　　      ;'       
