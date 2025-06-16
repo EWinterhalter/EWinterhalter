@@ -3,9 +3,9 @@
 
 #  Hi there!
 
-I'm Ellie, studying to be a backend developer and trying to become a devops engineer. That's my stack 
+I'm Ellie, student from Moscow. I am a backend developer by education, but studying linux pulled me into devops and now my stack looks like this:
 
 ![my stack](https://go-skill-icons.vercel.app/api/icons?i=ansible,linux,bash,mysql,docker,golang,kubernetes,terraform,postgresql,nginx,nodejs,mongodb&titles=true)
 
+and I myself am looking for an internship as a devops engineer. I want to become a specialist in this direction ^_^
 
-And bonus, I know how to work with the web and know a couple of frameforks like django, vite, etc..
