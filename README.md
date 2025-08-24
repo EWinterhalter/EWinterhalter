@@ -10,7 +10,8 @@
 
 𝘔𝘺 𝘴𝘵𝘢𝘤𝘬:
 
-- unix administrator (Arch, Debain family, RHEL family) 🐧 [![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=linux,golang,bash,golang,ansible,docker,kubernetes,mysql,postgresql,mongodb,nginx,prometheus&theme=dark)
+- unix administrator (Arch, Debain family, RHEL family) 🐧 
 - bash, golang 📝
 - mysql, postgres, mongodb 📂
 - docker, kubernetes 🐳 
