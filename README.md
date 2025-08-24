@@ -11,5 +11,6 @@
 𝘔𝘺 𝘴𝘵𝘢𝘤𝘬:
 
 ![My Skills](https://skillicons.dev/icons?i=linux,golang,bash,ansible,docker,kubernetes,mysql,postgresql,mongodb,nginx,prometheus,terraform&theme=dark)
+
 𝘶𝘯𝘪𝘹 𝘢𝘥𝘮𝘪𝘯𝘪𝘴𝘵𝘳𝘢𝘵𝘰𝘳 (𝘈𝘳𝘤𝘩, 𝘋𝘦𝘣𝘢𝘪𝘯 𝘧𝘢𝘮𝘪𝘭𝘺, 𝘙𝘏𝘌𝘓 𝘧𝘢𝘮𝘪𝘭𝘺), 𝘣𝘢𝘴𝘩, 𝘨𝘰𝘭𝘢𝘯𝘨, 𝘮𝘺𝘴𝘲𝘭, 𝘱𝘰𝘴𝘵𝘨𝘳𝘦𝘴, 𝘮𝘰𝘯𝘨𝘰𝘥𝘣, 𝘥𝘰𝘤𝘬𝘦𝘳, 𝘬𝘶𝘣𝘦𝘳𝘯𝘦𝘵𝘦𝘴, 𝘢𝘯𝘴𝘪𝘣𝘭𝘦, 𝘵𝘦𝘳𝘳𝘢𝘧𝘰𝘳𝘮, 𝘯𝘨𝘪𝘯𝘹
 <!--[my stack](https://go-skill-icons.vercel.app/api/icons?i=ansible,linux,bash,mysql,docker,golang,kubernetes,arch,terraform,postgresql,nginx,nodejs,mongodb&titles=true)--!>
