@@ -8,7 +8,7 @@
 𝘐 𝘬𝘯𝘰𝘸 𝘩𝘰𝘸 𝘵𝘰 𝘸𝘰𝘳𝘬 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘞𝘦𝘣, 𝘣𝘶𝘵 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘢𝘵𝘵𝘳𝘢𝘤𝘵𝘴 𝘮𝘦 𝘵𝘩𝘦 𝘮𝘰𝘴𝘵. 
 𝘐'𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘮𝘺 𝘧𝘪𝘳𝘴𝘵 𝘫𝘰𝘣 𝘢𝘯𝘥 𝘪𝘯𝘵𝘦𝘳𝘯𝘴𝘩𝘪𝘱 𝘪𝘯 𝘋𝘦𝘷𝘖𝘱𝘴 (𝘳𝘦𝘭𝘦𝘷𝘢𝘯𝘵)
 
-![my stack](https://go-skill-icons.vercel.app/api/icons?i=ansible,linux,bash,mysql,docker,golang,kubernetes,arch, terraform,postgresql,nginx,nodejs,mongodb&titles=true)
+![my stack](https://go-skill-icons.vercel.app/api/icons?i=ansible,linux,bash,mysql,docker,golang,kubernetes,arch,terraform,postgresql,nginx,nodejs,mongodb&titles=true)
 
 
 
