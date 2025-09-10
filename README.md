@@ -10,6 +10,6 @@
 
 𝘔𝘺 𝘴𝘵𝘢𝘤𝘬:
 
-![My Skills](https://skillicons.dev/icons?i=linux,golang,bash,ansible,docker,kubernetes,mysql,postgresql,mongodb,nginx,prometheus,terraform,minio&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=linux,golang,bash,ansible,docker,kubernetes,mysql,postgresql,mongodb,nginx,prometheus,terraform&theme=dark)
 
 <!--[my stack](https://go-skill-icons.vercel.app/api/icons?i=ansible,linux,bash,mysql,docker,golang,kubernetes,arch,terraform,postgresql,nginx,nodejs,mongodb&titles=true)--!>
