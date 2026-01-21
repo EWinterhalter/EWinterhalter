@@ -22,5 +22,5 @@
 ```
 -->
 
-![Banner](e6c1be73e588f12a723c6c551f0c4f52.gif)
-## The future belongs to engineering
+![Banner](d65d3a334592a407cbdb83d4ec67ff9f.gif)
+## whatever 
